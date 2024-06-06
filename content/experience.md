@@ -24,7 +24,7 @@ sections:
   #     username: admin
   #   design:
   #     show_skill_percentage: false
-  - block: resume-Other Training
+  - block: resume-awards
     content:
       title: Other Training
       username: admin
