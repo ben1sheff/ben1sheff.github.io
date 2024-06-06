@@ -73,18 +73,49 @@ work:
       - Developed a budget for and ran a journal club for two years. Facilitated discussion to develop new ideas for projects and built research and presentation skills for junior researchers.
       - Constructed physics models including new particles designed to explain known anomalies. Built models with light neutralinos or particles with relatively small electric charge that explained the observed dark matter among other anomalies.
       - Designed and coded software pipelines combining existing Python, Mathematica, and Fortran packages along with my own script to conduct scans over orders of magnitude of particle masses in parameter space, comparing predictions to known experimental limits, such as neutrino detection, the Higgs boson mass, and direct detection experiments
+      - Taught as a substitute for undergraduate sustainability course, covering fundamentals of energy in Newtonian and fluid mechanics, and in electrical systems.
 
   - position: Graduate Research and Teaching Assistant
     company_name: University of Michigan
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-08-22
+    date_end: 2022-07-12
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Using Supersymmetry techniques, developed models with light neutralinos that explained the observed dark matter abundance and the hierarchy problem.
+      - Designed and coded software pipelines and detailed parameter scans using existing Python, Mathematica, and Fortran packages, along with my own scripts, to evaluate new physics models such as the above light neutralino models against experimental limits such as electron EDM measurements, direct and indirect detection, and limits on the Higgs boson mass.
+      - Developed, along with the DIALUP group, a new set of labs and course plan for the introductory mechanics lab for engineers, encouraging a focus on developing useful coding and statistical skills.
+      - Taught Introductory Mechanics lab course for two sections each semester for four semesters, and the Modern Physics lab course for two sections each of two semesters.
+  - position: Undergraduate Research Assistant
+    company_name: University of California, Berkeley
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-08-22
+    date_end: 2017-05-12
+    summary: |
+      - Used machine learning classification algorithms for particle identification using the ROOT Toolkit for Multi-Variate Analysis on large scale CUORE data.
+      - Developed, modeled, and built test jigs for samples, designed for use in a cryostat.
+      - Organized monthly barbecues for the Society of Physics Students, arranging equipment, supplies, personnel, and financing.
+  - position: Lounsberry Foundation Fellow
+    company_name: CERN, Geneva, Switzerland
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-04
+    date_end: 2016-04-20
+    summary: |
+      - Developed scalable code for high momentum photon jet analysis in C++ and ROOT, and integrated code into a general pipeline for large-scale ATLAS data analysis.
+      - Published in 3 internal technical reports (ATL-COM-PHYS-2016-192, ATL-COM-PHYS-2016-216, ATL-COM-PHYS-2016-109)
+  - position: Lee Teng Undergraduate Fellow
+    company_name: Argonne National Lab
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-06-10
+    date_end: 2015-08-20
+    summary: |
+      - Designed a generalized analysis code for X-ray mirror measurements with the Optics group
+      - Designed and coded a GUI with PyQT for easy use by the group.
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
