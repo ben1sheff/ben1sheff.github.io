@@ -33,11 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:benjaminjsheff@gmail.com'
     label: E-mail Me
-  - icon: academicons/arxiv
-    url: https://arxiv.org/search/hep-ph?searchtype=author&query=Sheff,+B
-  - icon: custom/inspire
+  - icon: academicons/inspire
     url: https://inspirehep.net/authors/1793537
     label: Publications
+    # # https://arxiv.org/search/hep-ph?searchtype=author&query=Sheff,+B
+  # - icon: academicons/arxiv
+  #   url: https://inspirehep.net/authors/1793537
+  #   label: Publications
 
 interests:
   - High Energy Physics
