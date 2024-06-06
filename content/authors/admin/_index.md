@@ -35,9 +35,9 @@ profiles:
     label: E-mail Me
   - icon: academicons/arxiv
     url: https://arxiv.org/search/hep-ph?searchtype=author&query=Sheff,+B
-  # - icon: custom/inspire
-  #   url: https://inspirehep.net/authors/1793537
-  #   label: Publications
+  - icon: custom/inspire
+    url: https://inspirehep.net/authors/1793537
+    label: Publications
 
 interests:
   - High Energy Physics
@@ -47,8 +47,8 @@ interests:
 education:
   - area: PhD High Energy Physics
     institution: University of Michigan
-    date_start: 08/2017
-    date_end: 05/2022
+    date_start: 2017-08-23
+    date_end: 2022-05-01
     summary: |
       Thesis: _Higgsino Dark Matter Theory and its Experimental Probes_. Supervised by [Prof James Wells](https://lsa.umich.edu/physics/people/faculty/jwells.html). 4 papers published, 3 in Physical Review D, gave 6 conference presentations and 1 invited talk.
     button:
@@ -56,8 +56,8 @@ education:
       url: 'https://deepblue.lib.umich.edu/handle/2027.42/172674'
   - area: Physics/Mathematics (Double Major)
     institution: University of California, Berkeley
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-08-23
+    date_end: 2022-05-12
     summary: |
       GPA: 3.9/4.0
 
