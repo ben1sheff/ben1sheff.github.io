@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: academicons/arxiv
     url: https://arxiv.org/search/hep-ph?searchtype=author&query=Sheff,+B
-  - icon: academicons/arxiv
+  - icon: custom/inspire
     url: https://inspirehep.net/authors/1793537
     label: Publications
 
