@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Benjamin Sheff
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Benjamin
+last_name: Sheff
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,65 +20,47 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Utah
+    url: https://www.physics.utah.edu/research/high-energy-physics/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:benjaminjsheff@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: academicons/arxiv
+    url: https://arxiv.org/search/hep-ph?searchtype=author&query=Sheff,+B
+  - icon: custom/inspire
+    url: https://inspirehep.net/authors/1793537
+    label: Publications
 
 interests:
+  - High Energy Physics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD High Energy Physics
+    institution: University of Michigan
+    date_start: 08/2017
+    date_end: 05/2022
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: _Higgsino Dark Matter Theory and its Experimental Probes_. Supervised by [Prof James Wells](https://lsa.umich.edu/physics/people/faculty/jwells.html). 4 papers published, 3 in Physical Review D, gave 6 conference presentations and 1 invited talk.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      url: 'https://deepblue.lib.umich.edu/handle/2027.42/172674'
+  - area: Physics/Mathematics (Double Major)
+    institution: University of California, Berkeley
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.9/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -141,13 +123,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +165,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Benjamin Sheff is a postdoctoral researcher at with the high energy theory group at the University of Utah Department of Physics and Astronomy. His past research focuses on forming testable predictions to confront theories for physics beyond the Standard Model with data. He has worked primarily with variations of Supersymmetric models with Higgsino-like and Wino-like Dark Matter, narrowing the available parameter space using results from direct detection experiments, electron EDM measurements, indirect detection through gamma ray and neutrino telescopes, and Higgs mass measurements.
+
+Going forward, he is interested in leveraging this experience in physical system intuition, modeling, and data handling to further the field of AI engineering, with a particular interest in robot learning.
