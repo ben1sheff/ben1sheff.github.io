@@ -60,25 +60,22 @@ education:
     date_end: 2022-05-12
     summary: |
       GPA: 3.9/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Research Associate
+    company_name: University of Utah
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-07-12
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      - Conducted feature engineering on large scale data from the Gaia telescope, generated pairwise likelihoods for star gravitational binding for globular clusters and dwarf galaxies.
+      - Mentored a post-baccalaureate student who was later accepted as a full graduate student for the University of Utah physics program. Our project focused on evaluating general Supersymmetric models of new physics with indirect detection tools such as MadHat.
+      - Developed a budget for and ran a journal club for two years. Facilitated discussion to develop new ideas for projects and built research and presentation skills for junior researchers.
+      - Constructed physics models including new particles designed to explain known anomalies. Built models with light neutralinos or particles with relatively small electric charge that explained the observed dark matter among other anomalies.
+      - Designed and coded software pipelines combining existing Python, Mathematica, and Fortran packages along with my own script to conduct scans over orders of magnitude of particle masses in parameter space, comparing predictions to known experimental limits, such as neutrino detection, the Higgs boson mass, and direct detection experiments
+
+  - position: Graduate Research and Teaching Assistant
+    company_name: University of Michigan
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
