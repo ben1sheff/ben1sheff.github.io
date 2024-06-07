@@ -20,9 +20,10 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title:  <style> Certificates {"text-align: left"} </style>
+      title:  Certificates
       subtitle: subtitle
       text: |
+      ## Header 2
       *Kaggle Certificates:*
       I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
       Certificates from:
