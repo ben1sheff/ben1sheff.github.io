@@ -20,9 +20,17 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title: <div style="text-align: right">My title </div>
+      title: <p style="text-align: left">Certificates </p>
       subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: |
+      I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
+      Certificates from:
+      - Intro to Machine Learning
+      - Intermediate Machine Learning
+      - Feature Engineering
+      - Data Cleaning
+      - Intro to Deep Learning
+      - Computer Vision
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
