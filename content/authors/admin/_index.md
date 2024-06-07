@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:benjaminjsheff@gmail.com'
     label: E-mail Me
-  - icon: linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/ben-sheff
     label: LinkedIn
   - icon: academicons/inspire
@@ -65,6 +65,14 @@ education:
     date_end: 2022-05-12
     summary: |
       GPA: 3.9/4.0
+
+education:
+  - area: test
+    institution: test
+    date_start: 2024-04-01
+    date_end: 2024-05-01
+    summary: |
+      test
 work:
   - position: Postdoctoral Research Associate
     company_name: University of Utah
