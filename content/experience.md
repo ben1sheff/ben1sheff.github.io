@@ -22,15 +22,14 @@ sections:
     content:
       title:  Certificates
       subtitle: subtitle
-      text: Kaggle Certificates:\
-      I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. \
-      Certificates from:\
-      - Intro to Machine Learning\
-      - Intermediate Machine Learning\
-      - Feature Engineering\
-      - Data Cleaning\
-      - Intro to Deep Learning\
-      - Computer Vision
+      text: Kaggle Certificates:<br> I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. \
+      text: Certificates from:\
+      text: - Intro to Machine Learning
+      text: - Intermediate Machine Learning\
+      text: - Feature Engineering\
+      text: - Data Cleaning\
+      text: - Intro to Deep Learning\
+      text: - Computer Vision
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
