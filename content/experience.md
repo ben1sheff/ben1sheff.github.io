@@ -27,10 +27,10 @@ sections:
   - block: markdown
     content:
       title: Other Training
-      username: admin
+      # username: admin
       subtitle: [Kaggle](https://www.kaggle.com/learn)
-    date_start: 2024-04-23
-    date_end: 2024-05-01
+    # date_start: 2024-04-23
+    # date_end: 2024-05-01
     text: |
       I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
       Certificates from:
