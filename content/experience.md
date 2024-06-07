@@ -20,9 +20,9 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title: <div>{: .left} Certificates </div>
-      subtitle: My subtitle
+      title: Certificates
       text: |
+      ## Kaggle Certificates
       I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
       Certificates from:
       - Intro to Machine Learning
