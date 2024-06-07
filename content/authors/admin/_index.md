@@ -168,12 +168,11 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-training: 
+Awards: 
   - title: Kaggle
     url: https://www.kaggle.com/learn
-    date: '2023-11-25'
+    date: '2024-05-10'
     awarder: Kaggle
-    icon: kaggle
     summary: |
       I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
       Certificates from:
