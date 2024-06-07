@@ -33,7 +33,7 @@ sections:
   #     title: Languages
   #     username: admin
 ---
-title: My page
+title: More Stuff
 type: landing
 
 sections:

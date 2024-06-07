@@ -65,14 +65,6 @@ education:
     date_end: 2022-05-12
     summary: |
       GPA: 3.9/4.0
-
-education:
-  - area: test
-    institution: test
-    date_start: 2024-04-01
-    date_end: 2024-05-01
-    summary: |
-      test
 work:
   - position: Postdoctoral Research Associate
     company_name: University of Utah
@@ -190,6 +182,19 @@ Awards:
       - Data Cleaning
       - Intro to Deep Learning
       - Computer Vision
+  - title: Leinweber Fellow
+    url: https://lsa.umich.edu/lctp/fellows/past-fellows.html
+    date: '2022-03-12'
+    awarder: Leinweber Center for Theoretical Physics
+    summary: |
+      Awarded a 3 month fellowship, fully funding high energy theoretical physics research during the summer of 2022
+  - title: National Science Foundation Graduate Research Fellowship (NSF GRFP)
+    url: https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024
+    date: '2018-04-03'
+    awarder: NSF
+    summary: |
+      Awarded a 3-year, competitive, federal grant fully funding gradute studies and research during that time.
+  - title: 
 ---
 
 ## About Me
