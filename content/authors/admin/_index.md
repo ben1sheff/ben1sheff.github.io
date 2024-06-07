@@ -182,6 +182,13 @@ Awards:
       - Data Cleaning
       - Intro to Deep Learning
       - Computer Vision
+other: 
+  - title: test
+    url: https://www.kaggle.com/learn
+    date: '2024-05-10'
+    awarder: test
+    summary: |
+      test
 ---
 
 ## About Me
