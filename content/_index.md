@@ -76,7 +76,7 @@ sections:
       filters:
         folders:
           - event
-    design:
+    # design:
   # - block: collection
   #   id: news
   #   content:
