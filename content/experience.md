@@ -20,17 +20,29 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title:  Certificates
-      subtitle: subtitle
+      title: '📚 My Research'
+      subtitle: ''
       text: |-
-      Kaggle Certificates:<br> I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms.
-      Certificates from:
-      # text: - Intro to Machine Learning
-      # text: - Intermediate Machine Learning\
-      # text: - Feature Engineering\
-      # text: - Data Cleaning\
-      # text: - Intro to Deep Learning\
-      # text: - Computer Vision
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:  Certificates
+  #     subtitle: subtitle
+  #     text: |-
+  #     Kaggle Certificates:<br> I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms.
+  #     Certificates from:
+  #     # text: - Intro to Machine Learning
+  #     # text: - Intermediate Machine Learning\
+  #     # text: - Feature Engineering\
+  #     # text: - Data Cleaning\
+  #     # text: - Intro to Deep Learning\
+  #     # text: - Computer Vision
 
 
   # - block: resume-skills
