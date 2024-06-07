@@ -22,7 +22,7 @@ sections:
     content:
       title:  Certificates
       subtitle: subtitle
-      text: **Kaggle Certificates:**\
+      text: Kaggle Certificates:\
       I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. \
       Certificates from:\
       - Intro to Machine Learning\
