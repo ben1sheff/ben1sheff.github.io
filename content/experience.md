@@ -20,7 +20,7 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title: My title
+      title: <div style="text-align: right">My title </div>
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   # - block: resume-skills

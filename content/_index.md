@@ -43,6 +43,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
@@ -63,16 +64,19 @@ sections:
     # design:
     #   view: article-grid
     #   columns: 2
-  - block: collection
+    
+  - block: resume-awards
+    content:
+      title: Fellowships and Awards
+      username: admin
+  - block: markdown
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
-      view: article-grid
-      columns: 1
   # - block: collection
   #   id: news
   #   content:
