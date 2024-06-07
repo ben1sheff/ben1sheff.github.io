@@ -18,20 +18,20 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  # - block: markdown
-  #   content:
-  #     title: Certificates
-  #     subtitle: subtitle
-  #     text: |
-  #     *Kaggle Certificates:*
-  #     I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
-  #     Certificates from:
-  #     - Intro to Machine Learning
-  #     - Intermediate Machine Learning
-  #     - Feature Engineering
-  #     - Data Cleaning
-  #     - Intro to Deep Learning
-  #     - Computer Vision
+  - block: markdown
+    content:
+      title:  <style> Certificates {"text-align: left"} </style>
+      subtitle: subtitle
+      text: |
+      *Kaggle Certificates:*
+      I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
+      Certificates from:
+      - Intro to Machine Learning
+      - Intermediate Machine Learning
+      - Feature Engineering
+      - Data Cleaning
+      - Intro to Deep Learning
+      - Computer Vision
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
