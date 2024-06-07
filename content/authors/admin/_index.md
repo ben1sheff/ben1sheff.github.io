@@ -33,6 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:benjaminjsheff@gmail.com'
     label: E-mail Me
+  - icon: linkedin
+    url: https://www.linkedin.com/in/ben-sheff
+    label: LinkedIn
   - icon: academicons/inspire
     url: https://inspirehep.net/authors/1793537
     label: Publications
@@ -165,7 +168,7 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Awards:
+training: 
   - title: Kaggle
     url: https://www.kaggle.com/learn
     date: '2023-11-25'
