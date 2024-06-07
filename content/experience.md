@@ -18,6 +18,11 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
@@ -32,14 +37,4 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
----
-title: More Stuff
-type: landing
-
-sections:
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
