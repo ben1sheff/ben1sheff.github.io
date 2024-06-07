@@ -20,12 +20,11 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title:  'Certificates'
+      title:  ''
       subtitle: ''
       text: |
-        ## Kaggle Certificates:
-        I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
-        Certificates from:
+        ## Certificates:
+        ### [Kaggle](https://www.kaggle.com/learn)
         - Intro to Machine Learning
         - Intermediate Machine Learning
         - Feature Engineering
