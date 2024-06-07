@@ -20,7 +20,7 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title: <p style="text-align: left">Certificates </p>
+      title: <style> Certificates {"text-align: left"} </style>
       subtitle: My subtitle
       text: |
       I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
