@@ -24,22 +24,6 @@ sections:
   #     username: admin
   #   design:
   #     show_skill_percentage: false
-  - block: other
-    content:
-      title: Other Training
-      username: admin
-      # subtitle: [Kaggle](https://www.kaggle.com/learn)
-    # date_start: 2024-04-23
-    # date_end: 2024-05-01
-    # text: |
-    #   I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
-    #   Certificates from:
-    #   - Intro to Machine Learning
-    #   - Intermediate Machine Learning
-    #   - Feature Engineering
-    #   - Data Cleaning
-    #   - Intro to Deep Learning
-    #   - Computer Vision
   - block: resume-awards
     content:
       title: Fellowships and Awards
@@ -48,4 +32,21 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
+---
+
+  - block: markdown
+    content:
+      title: Other Training
+      subtitle: [Kaggle](https://www.kaggle.com/learn)
+    # date_start: 2024-04-23
+    # date_end: 2024-05-01
+    text: |
+      I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
+      Certificates from:
+      - Intro to Machine Learning
+      - Intermediate Machine Learning
+      - Feature Engineering
+      - Data Cleaning
+      - Intro to Deep Learning
+      - Computer Vision
 ---
