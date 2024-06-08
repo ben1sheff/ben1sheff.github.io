@@ -26,13 +26,13 @@ sections:
         ## Certificates:
         ####<a href="https://www.kaggle.com/learn">Kaggle</a>
         - Intro to Machine Learning 
-        - Intermediate Machine Learning<pre>                                  </pre>
+        - Intermediate Machine Learning
         - Feature Engineering 
         - Data Cleaning
         - Intro to Deep Learning
         - Computer Vision
     design:
-      columns: '1'
+      columns: '2'
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
