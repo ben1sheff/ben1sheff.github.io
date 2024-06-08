@@ -20,11 +20,11 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title:  ''
+      title:  '\ '
       subtitle: ''
       text: |
         ## Certificates:
-        ### [Kaggle](https://www.kaggle.com/learn)
+        ### test [Kaggle](https://www.kaggle.com/learn)
         - Intro to Machine Learning
         - Intermediate Machine Learning
         - Feature Engineering
