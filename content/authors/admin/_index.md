@@ -201,3 +201,6 @@ Awards:
 Benjamin Sheff is a postdoctoral researcher at with the high energy theory group at the University of Utah Department of Physics and Astronomy. His past research focuses on forming testable predictions to confront theories for physics beyond the Standard Model with data. He has worked primarily with variations of Supersymmetric models with Higgsino-like and Wino-like Dark Matter, narrowing the available parameter space using results from direct detection experiments, electron EDM measurements, indirect detection through gamma ray and neutrino telescopes, and Higgs mass measurements.
 
 Going forward, he is interested in leveraging this experience in physical system intuition, modeling, and data handling to further the field of AI engineering, with a particular interest in robot learning.
+
+
+[def]: https://lsa.umich.edu/physics/people/faculty/jwells.html
