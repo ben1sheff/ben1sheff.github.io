@@ -30,9 +30,9 @@ sections:
         - Feature Engineering 
         - Data Cleaning
         - Intro to Deep Learning
-        - Computer Vision
+        - Computer Vision<style opacity: 0> let's see if we can't make this seem to be much much much much much much much much longer than it is </style>
     design:
-      columns: '2'
+      columns: '1'
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
