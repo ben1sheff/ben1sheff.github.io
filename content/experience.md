@@ -20,17 +20,21 @@ sections:
       is_education_first: true
   - block: markdown
     content:
-      title:  '                                                                 '
+      title:  ''
       subtitle: ''
       text: |
         ## Certificates:
+        [Kaggle][https://www.kaggle.com/learn]
+        - Intro to Machine Learning 
         [Kaggle](https://www.kaggle.com/learn)
-        - Intro to Machine Learning
-        - Intermediate Machine Learning
+        - Intermediate Machine Learning 
+        [Kaggle][https://www.kaggle.com/learn]
         - Feature Engineering
         - Data Cleaning
         - Intro to Deep Learning
         - Computer Vision
+    design:
+      columns: '1'
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
