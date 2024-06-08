@@ -169,19 +169,6 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 Awards: 
-  - title: Kaggle
-    url: https://www.kaggle.com/learn
-    date: '2024-05-10'
-    awarder: Kaggle
-    summary: |
-      I studied the fundamentals of how Machine Learning algorithms are constructed and used, how feature engineering is done, and some techniques for building and applying deep learning algorithms. 
-      Certificates from:
-      - Intro to Machine Learning
-      - Intermediate Machine Learning
-      - Feature Engineering
-      - Data Cleaning
-      - Intro to Deep Learning
-      - Computer Vision
   - title: Leinweber Fellow
     url: https://lsa.umich.edu/lctp/fellows/past-fellows.html
     date: '2022-03-12'
@@ -194,7 +181,19 @@ Awards:
     awarder: NSF
     summary: |
       Awarded a 3-year, competitive, federal grant fully funding gradute studies and research during that time.
-  - title: 
+  - title: Conference Experience for Undergraduates Fellowship
+    url: https://www.uwlax.edu/ceu/meetings/2016/
+    date: '2016-08-01'
+    awarder: CEU Program for the Division of Nuclear Physics
+    summary: |
+      awarded funding for travel and registration for the American Physical Society, Division of Nuclear Physics Conference.
+  - title: Lounsberry Foundation Fellowship
+    url: http://um-cern-semester-abroad.org/
+    date: '2015-06-24'
+    awarder: University of Michigan CERN REU program
+    summary: |
+      Awarded funding for travel and research, along with stipend, for three months of research in Geneva, Switzerland at CERN
+  # Still have to do BPURSE, Lee Teng, Laslett, and Fries
 ---
 
 ## About Me
