@@ -24,13 +24,10 @@ sections:
       subtitle: ''
       text: |
         ## Certificates:
-
-        [Kaggle][https://www.kaggle.com/learn]
+        ### <a href="https://www.kaggle.com/learn">Kaggle</a>
         - Intro to Machine Learning 
-        [Kaggle](https://www.kaggle.com/learn)
         - Intermediate Machine Learning 
-        [Kaggle][https://www.kaggle.com/learn]
-        - Feature Engineering <a href="https://www.kaggle.com/learn">Kaggle</a>
+        - Feature Engineering 
         - Data Cleaning
         - Intro to Deep Learning
         - Computer Vision
