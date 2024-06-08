@@ -55,7 +55,7 @@ education:
     date_start: 2017-08-23
     date_end: 2022-05-01
     summary: |
-      Thesis: _Higgsino Dark Matter Theory and its Experimental Probes_. Supervised by [Prof James Wells](https://lsa.umich.edu/physics/people/faculty/jwells.html). 4 papers published, 3 in Physical Review D, gave 6 conference presentations and 1 invited talk.
+      Thesis: _Higgsino Dark Matter Theory and its Experimental Probes_. Supervised by <a href="(https://lsa.umich.edu/physics/people/faculty/jwells.html">Prof James Wells</a>. 4 papers published, 3 in Physical Review D, gave 6 conference presentations and 1 invited talk.
     button:
       text: 'Read Thesis'
       url: 'https://deepblue.lib.umich.edu/handle/2027.42/172674'
