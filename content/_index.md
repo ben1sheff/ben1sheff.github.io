@@ -51,6 +51,31 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
+  - block: markdown
+    content:
+      title:  ''
+      subtitle: ''
+      text: |
+        ## Certificates:
+        #### <a href="https://www.kaggle.com/learn">Kaggle</a>
+        - Intro to Machine Learning 
+        - Intermediate Machine Learning
+        - Feature Engineering 
+        - Data Cleaning
+        - Intro to Deep Learning
+        - Computer Vision
+    design:
+      columns: '1'
+  # - block: resume-skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
+  #   design:
+  #     show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Fellowships and Awards
+      username: admin
   - block: collection
     id: papers
     content:
@@ -69,13 +94,13 @@ sections:
     content:
       title: Fellowships and Awards
       username: admin
-  - block: markdown
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
+  # - block: markdown
+  #   id: talks
+  #   content:
+  #     title: Talks
+  #     filters:
+  #       folders:
+  #         - event
     # design:
   # - block: collection
   #   id: news

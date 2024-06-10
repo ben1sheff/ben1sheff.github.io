@@ -30,7 +30,7 @@ sections:
         - Feature Engineering 
         - Data Cleaning
         - Intro to Deep Learning
-        - Computer Vision <div opacity=0> let's see if we can't make this seem to be much much much much much much much much longer than it is </div>
+        - Computer Vision
     design:
       columns: '1'
   # - block: resume-skills
