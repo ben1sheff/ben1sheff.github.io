@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'CUORE'
 date: 2023-10-24
 type: landing
@@ -21,4 +21,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
----
+--- -->
