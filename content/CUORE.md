@@ -14,7 +14,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: From 2014 to 2017, I worked with the Cryogenic Underground Observatory for Rare Events (CUORE) collaboration at Berkeley, designing testing jigs for light detectors and for transition edge sensor (TES) development, created for use in a cryostat at temperatures as low as 10 mK.
       filters:
         folders:
           - CUORE

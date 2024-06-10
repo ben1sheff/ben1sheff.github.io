@@ -19,9 +19,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: CUORE
-    url: CUORE/
-    weight: 35
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
