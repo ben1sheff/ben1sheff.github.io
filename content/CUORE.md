@@ -2,6 +2,7 @@
 title: 'CUORE'
 date: 2023-10-24
 type: landing
+url: CUORE/
 
 design:
   spacing: '5rem'
