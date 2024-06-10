@@ -1,7 +1,7 @@
 ---
 title: PyTorch
 date: 2023-10-26
-url: CUORE/
+external_link: https://ben1sheff.github.io/website/CUORE/
 tags:
   - Hugo
   - Wowchemy
