@@ -140,7 +140,7 @@ work:
 skills:
   - name: Software Skills
     items:
-      - name: Python
+      - name: Regression
         description: ''
         # icon: code-bracket
       - name: Data Science
@@ -158,7 +158,8 @@ skills:
   - name: Soft Skills
     items:
       - name: Public Speaking
-      - name: Teaching and Mentorship
+      - name: Leadership
+      - name: Teaching
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
