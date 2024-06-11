@@ -144,14 +144,6 @@
     </item>
     
     <item>
-      <title>Pioneers in Engineering</title>
-      <link>http://localhost:1313/project/pie/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pie/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
       <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -270,7 +262,7 @@
 
 
 
-&lt;div id=&#34;chart-692438571&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-625134789&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +280,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-692438571&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-625134789&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -953,6 +945,40 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Pioneers in Engineering</title>
+      <link>http://localhost:1313/project/pie/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pie/</guid>
+      <description>&lt;p&gt;Pioneers in Engineering (PiE) brings a robotics competiton to underserved high schools in the Bay Area. We designed, sourced, and manufactured parts with an eye to the ease with which students could build their ideas, and to making the competition affordable.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CUORE CAD and Machining work</title>
+      <link>http://localhost:1313/project/cuoreprojects/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cuoreprojects/</guid>
+      <description>&lt;p&gt;With the CUORE collaboration at Berkeley, I designed testing jigs for light detectors and for TES development for rare event detection.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Light Detector Test Jig</title>
+      <link>http://localhost:1313/cuore/lightdetectorjig/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cuore/lightdetectorjig/</guid>
+      <description>&lt;p&gt;I designed and constructed a modular jig for testing light detector components in our cryostat. Careful consideration was taken with the larger number of components this jig had compared to earlier jigs that interfaces would remain coupled tightly enough to thermalize at low temperatures, and clamps would hold as different materials shrank. The design was built to be modular, allowing a variety of options for light sources, light detectors, and other configurations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Basekit Design Team Lead</title>
+      <link>http://localhost:1313/pie/basekit/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pie/basekit/</guid>
+      <description>&lt;p&gt;Project Manager for designing the base kit for the 2016 robotics competition season. In the course of this project, considered different improvements to previous years’ base kits, from different motors, to metals.
+We built two moving robots, each testing a linear combination of possible improvements to be made.
+The designs were then evaluated on the basis of destructive testing, budget and sourcing, and modularity for potential student designs, to make a single, conglomerate robot.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>An example journal article</title>
       <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -974,6 +1000,31 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>OMEN</title>
+      <link>http://localhost:1313/project/omen/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/omen/</guid>
+      <description>&lt;p&gt;Designed and Coded the Optical Metrology ENgine (OMEN) for the Optics group at the Advanced Photon Source at Argonne National Lab. The engine was designed with a GUI to visualize mirror profiles and easily manipulate the data with a number of analysis tools.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mentoring High School Robotics</title>
+      <link>http://localhost:1313/pie/mentoring/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pie/mentoring/</guid>
+      <description>&lt;p&gt;Mentored team 26, Oakland School of the Arts in the 2015 Pioneers in Engineering robotics competition.
+Worked personally with high school students to design and build a mechanism to flip tables, and one manipulating plastic food to place on the tables.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mind-Controlled Car</title>
+      <link>http://localhost:1313/project/mindcontrol/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mindcontrol/</guid>
+      <description>&lt;p&gt;Final Project for the Basic Semiconductors Lab. We designed an EEG, using electrodes and heavy filtering both direclty wired and using LabView, to read a user&amp;rsquo;s emotional state. This input was piped to an RC car which would drive forward or back based on the measured emotional state.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Shielded TES testing jig</title>
       <link>http://localhost:1313/cuore/tesshielded/</link>
       <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
@@ -982,19 +1033,19 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Light Detector Test Jig</title>
-      <link>http://localhost:1313/cuore/lightdetectorjig/</link>
-      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cuore/lightdetectorjig/</guid>
-      <description>&lt;p&gt;I designed and constructed a modular jig for testing light detector components in our cryostat. Careful consideration was taken with the larger number of components this jig had compared to earlier jigs that interfaces would remain coupled tightly enough to thermalize at low temperatures, and clamps would hold as different materials shrank. The design was built to be modular, allowing a variety of options for light sources, light detectors, and other configurations.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>TES development</title>
       <link>http://localhost:1313/cuore/tesdev/</link>
       <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cuore/tesdev/</guid>
       <description>&lt;p&gt;I designed, made CAD models for, and built shielded test jigs for Transition Edge Sensor (TES) development. These had to take special care of material and thermalization concerns to properly cool to 10 mK. Fully shielded jigs were &lt;a href=http://localhost:1313/cuore/tesshielded/&gt;designed later&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Worm Gearbox Design</title>
+      <link>http://localhost:1313/pie/wormgear/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pie/wormgear/</guid>
+      <description>&lt;p&gt;Worked on a team designing a worm gearbox to be manufactured and distributed to over 25 teams. We ran through the full production cycle, including CADing the gearbox, sourcing the parts, running through destructive testing, and manufacturing the main box ourselves&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1016,14 +1067,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>CUORE CAD and Machining work</title>
-      <link>http://localhost:1313/project/cuoreprojects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/cuoreprojects/</guid>
-      <description>&lt;p&gt;With the CUORE collaboration at Berkeley, I designed testing jigs for light detectors and for TES development for rare event detection.&lt;/p&gt;</description>
     </item>
     
   </channel>

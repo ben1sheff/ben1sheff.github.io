@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -15,17 +15,33 @@
     <item>
       <title>Pioneers in Engineering</title>
       <link>http://localhost:1313/project/pie/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pie/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pioneers in Engineering (PiE) brings a robotics competiton to underserved high schools in the Bay Area. We designed, sourced, and manufactured parts with an eye to the ease with which students could build their ideas, and to making the competition affordable.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CUORE CAD and Machining work</title>
       <link>http://localhost:1313/project/cuoreprojects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/cuoreprojects/</guid>
       <description>&lt;p&gt;With the CUORE collaboration at Berkeley, I designed testing jigs for light detectors and for TES development for rare event detection.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OMEN</title>
+      <link>http://localhost:1313/project/omen/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/omen/</guid>
+      <description>&lt;p&gt;Designed and Coded the Optical Metrology ENgine (OMEN) for the Optics group at the Advanced Photon Source at Argonne National Lab. The engine was designed with a GUI to visualize mirror profiles and easily manipulate the data with a number of analysis tools.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mind-Controlled Car</title>
+      <link>http://localhost:1313/project/mindcontrol/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mindcontrol/</guid>
+      <description>&lt;p&gt;Final Project for the Basic Semiconductors Lab. We designed an EEG, using electrodes and heavy filtering both direclty wired and using LabView, to read a user&amp;rsquo;s emotional state. This input was piped to an RC car which would drive forward or back based on the measured emotional state.&lt;/p&gt;</description>
     </item>
     
   </channel>

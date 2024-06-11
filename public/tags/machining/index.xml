@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/machining/</link>
       <atom:link href="http://localhost:1313/tags/machining/index.xml" rel="self" type="application/rss+xml" />
     <description>Machining</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Machining</title>
       <link>http://localhost:1313/tags/machining/</link>
     </image>
+    
+    <item>
+      <title>Light Detector Test Jig</title>
+      <link>http://localhost:1313/cuore/lightdetectorjig/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cuore/lightdetectorjig/</guid>
+      <description>&lt;p&gt;I designed and constructed a modular jig for testing light detector components in our cryostat. Careful consideration was taken with the larger number of components this jig had compared to earlier jigs that interfaces would remain coupled tightly enough to thermalize at low temperatures, and clamps would hold as different materials shrank. The design was built to be modular, allowing a variety of options for light sources, light detectors, and other configurations.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Shielded TES testing jig</title>
@@ -21,27 +29,11 @@
     </item>
     
     <item>
-      <title>Light Detector Test Jig</title>
-      <link>http://localhost:1313/cuore/lightdetectorjig/</link>
-      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cuore/lightdetectorjig/</guid>
-      <description>&lt;p&gt;I designed and constructed a modular jig for testing light detector components in our cryostat. Careful consideration was taken with the larger number of components this jig had compared to earlier jigs that interfaces would remain coupled tightly enough to thermalize at low temperatures, and clamps would hold as different materials shrank. The design was built to be modular, allowing a variety of options for light sources, light detectors, and other configurations.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>TES development</title>
       <link>http://localhost:1313/cuore/tesdev/</link>
       <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cuore/tesdev/</guid>
       <description>&lt;p&gt;I designed, made CAD models for, and built shielded test jigs for Transition Edge Sensor (TES) development. These had to take special care of material and thermalization concerns to properly cool to 10 mK. Fully shielded jigs were &lt;a href=http://localhost:1313/cuore/tesshielded/&gt;designed later&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>CUORE CAD and Machining work</title>
-      <link>http://localhost:1313/project/cuoreprojects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/cuoreprojects/</guid>
-      <description>&lt;p&gt;With the CUORE collaboration at Berkeley, I designed testing jigs for light detectors and for TES development for rare event detection.&lt;/p&gt;</description>
     </item>
     
   </channel>

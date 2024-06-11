@@ -1,5 +1,5 @@
 ---
-title: cuore
+title: CUORE
 date: 2023-10-24
 type: landing
 url: cuore/
@@ -8,11 +8,11 @@ design:
   # Section spacing
   spacing: '5rem'
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+# cascade:
+#   - _target:
+#       kind: page
+#     params:
+#       show_breadcrumb: true
 
 # Page sections
 sections:
@@ -28,4 +28,5 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+      date_format: "Jan, 2006"
 ---

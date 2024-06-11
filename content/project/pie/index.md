@@ -1,13 +1,10 @@
 ---
 title: Pioneers in Engineering
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+date: 2017-05-10
+external_link: /pie/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Pioneers in Engineering (PiE) brings a robotics competiton to underserved high schools in the Bay Area. We designed, sourced, and manufactured parts with an eye to the ease with which students could build their ideas, and to making the competition affordable.
 
 <!--more-->
