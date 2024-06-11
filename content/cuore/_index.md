@@ -1,5 +1,5 @@
 ---
-title: 'cuore'
+title: cuore
 date: 2023-10-24
 type: landing
 url: cuore/
