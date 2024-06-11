@@ -15,7 +15,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I have done a mix of hardware and software projects over the years. While most of my research work is in my main CV, other projects involving designing, machining, or coding various things are included here.
+      text: I have done a mix of hardware and software projects over the years. While most of my research work is in my main Experience section, other projects involving designing, machining, or coding various things are included here.
       filters:
         folders:
           - project
