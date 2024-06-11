@@ -62,7 +62,7 @@ education:
   - area: Physics/Mathematics (Double Major)
     institution: University of California, Berkeley
     date_start: 2013-08-23
-    date_end: 2022-05-12
+    date_end: 2017-05-12
     summary: |
       GPA: 3.9/4.0
 work:
