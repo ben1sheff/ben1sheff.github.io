@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CUORE | Benjamin Sheff</title>
+    <link>http://localhost:1313/tags/cuore/</link>
+      <atom:link href="http://localhost:1313/tags/cuore/index.xml" rel="self" type="application/rss+xml" />
+    <description>CUORE</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>CUORE</title>
+      <link>http://localhost:1313/tags/cuore/</link>
+    </image>
+    
+    <item>
+      <title>TES development</title>
+      <link>http://localhost:1313/cuoreprojects/tesdev/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cuoreprojects/tesdev/</guid>
+      <description>&lt;p&gt;I designed, made CAD models for, and built shielded test jigs for Transition Edge Sensor (TES) development. These had to take special care of material and thermalization concerns to properly cool to 10 mK.  I sourced the materials, and machined the parts myself.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CUORE CAD and Machining work</title>
+      <link>http://localhost:1313/project/cuore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cuore/</guid>
+      <description>&lt;p&gt;With the CUORE collaboration at Berkeley, I designed testing jigs for light detectors and for TES development for rare event detection.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
