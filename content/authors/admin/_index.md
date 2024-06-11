@@ -91,6 +91,7 @@ work:
       - Designed and coded software pipelines and detailed parameter scans using existing Python, Mathematica, and Fortran packages, along with my own scripts, to evaluate new physics models such as the above light neutralino models against experimental limits such as electron EDM measurements, direct and indirect detection, and limits on the Higgs boson mass.
       - Developed, along with the DIALUP group, a new set of labs and course plan for the introductory mechanics lab for engineers, encouraging a focus on developing useful coding and statistical skills.
       - Taught Introductory Mechanics lab course for two sections each semester for four semesters, and the Modern Physics lab course for two sections each of two semesters.
+      - Treasurer for the Physics Graduate Student Council, managing finances and projecting budget requests to the department along with taking part in organizing game nights and weekly coffee hours for community building
   - position: Undergraduate Research Assistant
     company_name: University of California, Berkeley
     company_url: ''
@@ -99,8 +100,20 @@ work:
     date_end: 2017-05-12
     summary: |
       - Used machine learning classification algorithms for particle identification using the ROOT Toolkit for Multi-Variate Analysis on large scale CUORE data.
-      - Developed, modeled, and built test jigs for samples, designed for use in a cryostat.
+      - Developed, modeled, and built test jigs for samples, designed for use in a cryostat (<a href={{< ref "/cuore/" >}}>more detail here</a>).
       - Organized monthly barbecues for the Society of Physics Students, arranging equipment, supplies, personnel, and financing.
+  - position: Various Roles
+    company_name: Pioneers in Engineering (PiE)
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-08-22
+    date_end: 2017-05-11
+    summary: |
+      - Head of base kit design team, designing the kit competition teams use as a starting point for their robot (<a href={{< ref "/pie/basekit" >}}>more detail here</a>) (2016)
+      - Mentored Team 26, Oakland School of the Arts for competition season (spring 2015)
+      - Fabricated parts on a large scale as part of the Production Team to produce enough parts for over 24 robot base kits along with additional parts to make available to teams during the competition (2013-2014)
+      -	Led a team analyzing potential competition needs to determine parts offered to teams as Kit Extension Organizer (fall 2014) 
+      - Arranged and managed the kickoff event for over 250 high school students and competition staff (spring 2014)
   - position: Lounsberry Foundation Fellow
     company_name: CERN, Geneva, Switzerland
     company_url: ''
@@ -124,37 +137,41 @@ work:
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
+skills:
+  - name: Software Skills
+    items:
+      - name: Python
+        description: ''
+        # icon: code-bracket
+      - name: Data Science
+        description: ''
+        # icon: chart-bar
+      - name: Model-building
+        description: ''
+        # icon: circle-stack
+  - name: Hardware Skills
+    items:
+      - name: Fabrication
+        description: ''
+      - name: CAD
+      - name: Robotics
+  - name: Soft Skills
+    items:
+      - name: Public Speaking
+      - name: Teaching and Mentorship
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Skiing
+        description: ''
+        # icon: person-simple-walk
+      - name: D&D
+        description: ''
+        # icon: cat
+      - name: Dogs
+        description: ''
+        # icon: camera
 
 # languages:
 #   - name: English
@@ -181,6 +198,12 @@ Awards:
     awarder: NSF
     summary: |
       Awarded a 3-year, competitive, federal grant fully funding gradute studies and research during that time.
+  - title: Institute for International Studies Undergraduate Merit Scholarship
+    url: https://ias.utah.edu/financial-support/
+    date: '2016-12-02'
+    awarder: University of California, Berkeley department of IAS
+    summary: |
+      Merit Scholarship for research in any area of international studies. Additionally won Best Poster Award at the conference at the end of the program.
   - title: Conference Experience for Undergraduates Fellowship
     url: https://www.uwlax.edu/ceu/meetings/2016/
     date: '2016-08-01'
@@ -193,6 +216,29 @@ Awards:
     awarder: University of Michigan CERN REU program
     summary: |
       Awarded funding for travel and research, along with stipend, for three months of research in Geneva, Switzerland at CERN
+  - title: Lee Teng Undergraduate Fellowship in Accelerator Science and Engineering
+    url: https://www.anl.gov/education/lee-teng-fellowship
+    date: '2015-03-30'
+    awarder: Argonne National Lab
+    summary: |
+      Award to fund a summer of research in accelerator-related physics, and enrollment in the Particle Accelerator School.
+  - title: Fries Scholarship
+    date: '2015-12-02'
+    awarder: University of California, Berkeley Physics Department
+    summary: |
+      Scholarship for undergraduate research
+  - title: Laslett Scholarship
+    date: '2014-09-02'
+    awarder: University of California, Berkeley Physics Department
+    summary: |
+      Scholarship for undergraduate research
+  - title: Berkeley Physics Undergraduate Research Scholarship (awarded 3 semesters)
+    url: https://physics.berkeley.edu/academics/research-opportunities-board/bpurs
+    date: '2014-09-01'
+    awarder: University of California, Berkeley Physics Department
+    summary: |
+      Undergraduate research scholarship to offset the costs of research and tuition.
+
   # Still have to do BPURSE, Lee Teng, Laslett, and Fries
 ---
 
@@ -200,7 +246,7 @@ Awards:
 
 Benjamin Sheff is a postdoctoral researcher at with the high energy theory group at the University of Utah Department of Physics and Astronomy. His past research focuses on forming testable predictions to confront theories for physics beyond the Standard Model with data. He has worked primarily with variations of Supersymmetric models with Higgsino-like and Wino-like Dark Matter, narrowing the available parameter space using results from direct detection experiments, electron EDM measurements, indirect detection through gamma ray and neutrino telescopes, and Higgs mass measurements.
 
-Going forward, he is interested in leveraging this experience in physical system intuition, modeling, and data handling to further the field of AI engineering, with a particular interest in robot learning.
+Going forward, he is interested in leveraging this experience in physical system intuition, modeling, and data handling to further the field of AI engineering and robotics, with a particular interest in robot learning.
 
 
 [def]: https://lsa.umich.edu/physics/people/faculty/jwells.html

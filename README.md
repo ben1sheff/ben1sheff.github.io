@@ -1,54 +1,87 @@
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 # # NOTE: run server with "hugo server -D"
+# # Slides example from former talks area at the bottom
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 
 The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+<!-- ---
+title: Example Talk
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+event: Hugo Blox Builder Conference
+event_url: https://example.org
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
+all_day: false
 
-## We ask you, humbly, to support this open source movement
+# Schedule page publish date (NOT talk date).
+publishDate: '2017-01-01T00:00:00Z'
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+authors:
+  - admin
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+tags: []
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+# Is this a featured talk? (true/false)
+featured: false
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
-## Demo image credits
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+url_code: 'https://github.com'
+url_pdf: ''
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
-- [Unsplash](https://unsplash.com)
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 
-## Latest news
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+  - example
+---
 
-<!--START_SECTION:news-->
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
 
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
+

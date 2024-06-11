@@ -20,5 +20,31 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Cabinet Construction</title>
+      <link>http://localhost:1313/project/cabinet/</link>
+      <pubDate>Sat, 13 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cabinet/</guid>
+      <description>&lt;p&gt;Designed a cabinet for ease of use and transportation of game pieces. We made a full CAD model and machined and finished the wood, along with machining and affixing the metal, and plastic pieces ourselves.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Basekit Design Team Lead</title>
+      <link>http://localhost:1313/pie/basekit/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pie/basekit/</guid>
+      <description>&lt;p&gt;Project Manager for designing the base kit for the 2016 robotics competition season. In the course of this project, considered different improvements to previous years’ base kits, from different motors, to metals.
+We built two moving robots, each testing a linear combination of possible improvements to be made.
+The designs were then evaluated on the basis of destructive testing, budget and sourcing, and modularity for potential student designs, to make a single, conglomerate robot.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Worm Gearbox Design</title>
+      <link>http://localhost:1313/pie/wormgear/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pie/wormgear/</guid>
+      <description>&lt;p&gt;Worked on a team designing a worm gearbox to be manufactured and distributed to over 25 teams. We ran through the full production cycle, including CADing the gearbox, sourcing the parts, running through destructive testing, and manufacturing the main box ourselves&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
