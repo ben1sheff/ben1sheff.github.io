@@ -11,6 +11,9 @@ publication_types:
 - article-journal
 publication: '*Phys. Rev. D*'
 doi: 10.1103/PhysRevD.104.036009
+links:
+- name: URL
+  url: https://arxiv.org/abs/2008.10568
 tags:
 - category
 - CERN LHC Coll

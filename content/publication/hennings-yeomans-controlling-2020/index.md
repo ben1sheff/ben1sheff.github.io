@@ -9,6 +9,9 @@ publication_types:
 - article-journal
 publication: '*J. Appl. Phys.*'
 doi: 10.1063/5.0018564
+links:
+- name: URL
+  url: https://arxiv.org/abs/2010.00772
 tags:
 - 'calorimeter: resolution'
 - critical phenomena

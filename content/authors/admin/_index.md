@@ -102,7 +102,7 @@ work:
       - Used machine learning classification algorithms for particle identification using the ROOT Toolkit for Multi-Variate Analysis on large scale CUORE data.
       - Developed, modeled, and built test jigs for samples, designed for use in a cryostat (<a href={{< ref "/cuore/" >}}>more detail here</a>).
       - Organized monthly barbecues for the Society of Physics Students, arranging equipment, supplies, personnel, and financing.
-  - position: Various Roles
+  - position: Robotics Engineering Volunteer
     company_name: Pioneers in Engineering (PiE)
     company_url: ''
     company_logo: ''

@@ -10,6 +10,9 @@ publication_types:
 - article-journal
 publication: '*Phys. Rev. D*'
 doi: 10.1103/PhysRevD.109.075040
+links:
+- name: URL
+  url: https://arxiv.org/abs/2311.14802
 tags:
 - 'dark matter: direct detection'
 - 'dark matter: hidden sector'

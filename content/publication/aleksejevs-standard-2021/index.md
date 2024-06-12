@@ -9,6 +9,9 @@ date: '2021-02-01'
 publishDate: '2024-06-06T21:15:01.039759Z'
 publication_types:
 - article-journal
+links:
+- name: URL
+  url: https://arxiv.org/abs/2102.01127
 tags:
 - accelerator
 - acceptance
