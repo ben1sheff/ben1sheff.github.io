@@ -73,11 +73,11 @@ work:
     date_start: 2022-07-12
     date_end: ''
     summary: |
-      - Conducted feature engineering on large scale data from the Gaia telescope, generated pairwise likelihoods for star gravitational binding for globular clusters and dwarf galaxies.
+      - Developed software pipelines to take physics model parameters and output spectra to compare to telescope data using Feynrules, MicrOmegas, and PPPC4DMID. This streamlined parameter exploration, excluded a range of Dark Matter models, and motivated future studies at experiments like IceCube. 
+      - Constructed a weighted graph of 1.5 billion stars, amassed and analyzed using SQL-based code on a Slurm-based computing cluster. Using scikit-learn, I clustered this graph, finding 1073 potential bound star groups. 
       - Mentored a post-baccalaureate student who was later accepted as a full graduate student for the University of Utah physics program. Our project focused on evaluating general Supersymmetric models of new physics with indirect detection tools such as MadHat.
       - Developed a budget for and ran a journal club for two years. Facilitated discussion to develop new ideas for projects and built research and presentation skills for junior researchers.
       - Constructed physics models including new particles designed to explain known anomalies. Built models with light neutralinos or particles with relatively small electric charge that explained the observed dark matter among other anomalies.
-      - Designed and coded software pipelines combining existing Python, Mathematica, and Fortran packages along with my own script to conduct scans over orders of magnitude of particle masses in parameter space, comparing predictions to known experimental limits, such as neutrino detection, the Higgs boson mass, and direct detection experiments
       - Taught as a substitute for undergraduate sustainability course, covering fundamentals of energy in Newtonian and fluid mechanics, and in electrical systems.
 
   - position: Graduate Research and Teaching Assistant
@@ -88,8 +88,9 @@ work:
     date_end: 2022-07-12
     summary: |
       - Using Supersymmetry techniques, developed models with light neutralinos that explained the observed dark matter abundance and the hierarchy problem.
-      - Designed and coded software pipelines and detailed parameter scans using existing Python, Mathematica, and Fortran packages, along with my own scripts, to evaluate new physics models such as the above light neutralino models against experimental limits such as electron EDM measurements, direct and indirect detection, and limits on the Higgs boson mass.
-      - Developed, along with the DIALUP group, a new set of labs and course plan for the introductory mechanics lab for engineers, encouraging a focus on developing useful coding and statistical skills.
+      - Managed a project overseeing a postdoc, building a software pipeline taking model parameters and generating experimental predictions by connecting Feynrules, MicrOmegas, SUSYHD, and our own scripts. This made fast parameter scans, excluding a range of Dark Matter models, motivating experiments like Advanced ACME. 
+      - Designed new features using Monte Carlo detector simulations to optimize for classification of events with scalar particles in the ATLAS detector. These features improved classification efficiency up to 50x in such particle searches. 
+      - Developed, along with the DIALUP group, a new set of labs and a course plan for the introductory mechanics lab for engineers, encouraging a focus on developing useful coding and statistical skills.
       - Taught Introductory Mechanics lab course for two sections each semester for four semesters, and the Modern Physics lab course for two sections each of two semesters.
       - Treasurer for the Physics Graduate Student Council, managing finances and projecting budget requests to the department along with taking part in organizing game nights and weekly coffee hours for community building
   - position: Undergraduate Research Assistant
@@ -99,7 +100,7 @@ work:
     date_start: 2013-08-22
     date_end: 2017-05-12
     summary: |
-      - Used machine learning classification algorithms for particle identification using the ROOT Toolkit for Multi-Variate Analysis on large scale CUORE data.
+      - Leveraged boosted decision trees and small, dense, linear neural nets with ReLU activation to separate signal (0νββ) events from background radiation. Conducted feature engineering to, for example, extract relative strength of the two highly correlated decay modes on event pulses. Improved background discrimination 2% over previous methods.
       - Developed, modeled, and built test jigs for samples, designed for use in a cryostat (<a href={{< ref "/cuore/" >}}>more detail here</a>).
       - Organized monthly barbecues for the Society of Physics Students, arranging equipment, supplies, personnel, and financing.
   - position: Robotics Engineering Volunteer
@@ -109,7 +110,7 @@ work:
     date_start: 2013-08-22
     date_end: 2017-05-11
     summary: |
-      - Head of base kit design team, designing the kit competition teams use as a starting point for their robot (<a href={{< ref "/pie/basekit" >}}>more detail here</a>) (2016)
+      - As head of base kit design team, designed the kit competition teams use as a starting point for their robot, including plans for sourcing and production (<a href={{< ref "/pie/basekit" >}}>more detail here</a>) (2016)
       - Mentored Team 26, Oakland School of the Arts for competition season (spring 2015)
       - Fabricated parts on a large scale as part of the Production Team to produce enough parts for over 24 robot base kits along with additional parts to make available to teams during the competition (2013-2014)
       -	Led a team analyzing potential competition needs to determine parts offered to teams as Kit Extension Organizer (fall 2014) 
@@ -130,8 +131,7 @@ work:
     date_start: 2015-06-10
     date_end: 2015-08-20
     summary: |
-      - Designed a generalized analysis code for X-ray mirror measurements with the Optics group
-      - Designed and coded a GUI with PyQT for easy use by the group.
+      - Designed and wrote a package from scratch on a two month deadline for data cleaning and polynomial or template regression for X-ray mirror measurements with the Optics group. Built a GUI with PyQT for easy use. 
 
 
 
@@ -140,13 +140,13 @@ work:
 skills:
   - name: Software Skills
     items:
-      - name: Regression
+      - name: Python, C++, Mathematica, Bash
         description: ''
         # icon: code-bracket
-      - name: Data Science
-        description: ''
-        # icon: chart-bar
-      - name: Model-building
+      # - name: Numpy, Scipy, Astropy
+      #   description: ''
+      #   # icon: chart-bar
+      - name: Scikit-learn,  OpenCV, PyTorch
         description: ''
         # icon: circle-stack
   - name: Hardware Skills
@@ -154,12 +154,12 @@ skills:
       - name: Fabrication
         description: ''
       - name: CAD
-      - name: Robotics
-  - name: Soft Skills
-    items:
-      - name: Public Speaking
-      - name: Leadership
-      - name: Teaching
+      - name: Soldering
+  # - name: Soft Skills
+  #   items:
+  #     - name: Public Speaking
+  #     - name: Leadership
+  #     - name: Teaching
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
