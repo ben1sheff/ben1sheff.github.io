@@ -66,12 +66,21 @@ education:
     summary: |
       GPA: 3.9/4.0
 work:
+  - position: Scrum Master and AI Fellow
+    company_name: Fellowship.AI
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-10-07
+    date_end: 2024-12-27
+    summary: |
+      - Managed over 30 fellows using multimodal large language models to navigate the web.
+      - Built an agentic structure to select and execute actions, leveraging prompt engineering on foundation models for planning and using fine-tuned models to improve performance.
   - position: Postdoctoral Research Associate
     company_name: University of Utah
     company_url: ''
     company_logo: ''
     date_start: 2022-07-12
-    date_end: ''
+    date_end: 2024-10-07
     summary: |
       - Developed software pipelines to take physics model parameters and output spectra to compare to telescope data using Feynrules, MicrOmegas, and PPPC4DMID. This streamlined parameter exploration, excluded a range of Dark Matter models, and motivated future studies at experiments like IceCube. 
       - Constructed a weighted graph of 1.5 billion stars, amassed and analyzed using SQL-based code on a Slurm-based computing cluster. Using scikit-learn, I clustered this graph, finding 1073 potential bound star groups. 
@@ -245,9 +254,9 @@ Awards:
 
 ## About Me
 
-Benjamin Sheff is a postdoctoral researcher at with the high energy theory group at the University of Utah Department of Physics and Astronomy. His past research focuses on forming testable predictions to confront theories for physics beyond the Standard Model with data. He has worked primarily with variations of Supersymmetric models with Higgsino-like and Wino-like Dark Matter, narrowing the available parameter space using results from direct detection experiments, electron EDM measurements, indirect detection through gamma ray and neutrino telescopes, and Higgs mass measurements.
+I am a postdoctoral researcher at with the high energy theory group at the University of Utah Department of Physics and Astronomy. My past research focuses on forming testable predictions to confront theories for physics beyond the Standard Model with data. I have worked primarily with variations of Supersymmetric models with Higgsino-like and Wino-like Dark Matter, narrowing the available parameter space using results from direct detection experiments, electron EDM measurements, indirect detection through gamma ray and neutrino telescopes, and Higgs mass measurements.
 
-Going forward, he is interested in leveraging this experience in physical system intuition, modeling, and data handling to further the field of AI engineering and robotics, with a particular interest in robot learning.
+I am looking to leverage this experience in data handling and problem solving in the field of machine learning and artificial intelligence, with a particular interest in robotics. To this end, I have recently worked on computer vision projects along with participating in Fellowship.AI to work with recent LLM advances.
 
 
 [def]: https://lsa.umich.edu/physics/people/faculty/jwells.html
